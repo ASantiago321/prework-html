@@ -1,1 +1,1 @@
-<?php inculde_once("index.html");  ?>
+<?php inculde_once("StudentBio.html");  ?>
